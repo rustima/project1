@@ -1,0 +1,286 @@
+---------------------------------------------------------------
+[ 2019-03-15T10:29:24+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdf/s
+[运行时间：0.082999s] [吞吐率：12.05req/s] [内存消耗：1,602.84kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdf' => 's',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T10:36:45+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdf/s
+[运行时间：0.081187s] [吞吐率：12.32req/s] [内存消耗：1,602.84kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdf' => 's',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T10:50:19+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.081227s] [吞吐率：12.31req/s] [内存消耗：1,602.91kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T12:38:48+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.134986s] [吞吐率：7.41req/s] [内存消耗：1,655.99kb] [文件加载：42]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\admin\controller\QRcode' not found[C:\xampp\htdocs\project1\application\admin\controller\Index.php:20]
+---------------------------------------------------------------
+[ 2019-03-15T12:39:03+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.099189s] [吞吐率：10.08req/s] [内存消耗：1,602.98kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T12:39:16+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.076315s] [吞吐率：13.10req/s] [内存消耗：1,603.07kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T12:39:54+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.073748s] [吞吐率：13.56req/s] [内存消耗：1,603.07kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T12:39:55+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.078228s] [吞吐率：12.78req/s] [内存消耗：1,603.07kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T13:43:32+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdf/s
+[运行时间：0.088418s] [吞吐率：11.31req/s] [内存消耗：1,602.47kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdf' => 's',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-03-15T13:46:54+08:00 ] 127.0.0.1 GET www.tp5.com/project1/public/admin/index/index/asdfasdfasdf/asdfname/
+[运行时间：0.094330s] [吞吐率：10.60req/s] [内存消耗：1,602.54kb] [文件加载：39]
+[ info ] [ LANG ] C:\xampp\htdocs\project1\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-Hans-CN,zh-Hans;q=0.5',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'www.tp5.com',
+  'connection' => 'Keep-Alive',
+  'cookie' => 'pgv_pvi=5100667904',
+)
+[ info ] [ PARAM ] array (
+  'asdfasdfasdf' => 'asdfname',
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ C:\xampp\htdocs\project1\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
